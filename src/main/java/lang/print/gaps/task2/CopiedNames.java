@@ -1,7 +1,7 @@
 package lang.print.gaps.task2;
 
 public class CopiedNames {
-    public static void main(String[]args) {
+    public static void main(String[] args) {
         int variable = 0;
         int variable2 = 2000;
         int value = 1000;

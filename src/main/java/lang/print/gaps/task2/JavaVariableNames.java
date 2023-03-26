@@ -1,7 +1,7 @@
 package lang.print.gaps.task2;
 
 public class JavaVariableNames {
-    public static void main(String[] args) {
+    public static void main(String[]args) {
         int tomorrow2 = 0;
         int money$ = 10;
         int hundredPercent = 100;
